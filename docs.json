@@ -1,0 +1,72 @@
+{
+  "$schema": "https://docs.page/schema.json",
+  "name": "KozelWiki",
+  "description": "Wiki сервера Kozel — гайды по механикам, предметам и системам сервера.",
+  "theme": {
+    "primary": "#5865F2",
+    "primaryLight": "#5865F2",
+    "primaryDark": "#7B82F8"
+  },
+  "header": {
+    "showName": true
+  },
+  "social": {
+    "discord": "https://discord.gg/kozel"
+  },
+  "sidebar": [
+    {
+      "group": "Начало",
+      "icon": "house",
+      "pages": [
+        { "title": "Главная", "href": "/", "icon": "house" }
+      ]
+    },
+    {
+      "group": "Предметы",
+      "icon": "box",
+      "pages": [
+        { "title": "Бензопила", "href": "/items/chainsaw", "icon": "tree" },
+        { "title": "Сито", "href": "/items/sieve", "icon": "filter" },
+        { "title": "Невидимые рамки", "href": "/items/invisible-frames", "icon": "image" },
+        { "title": "Прочный канат", "href": "/items/rope", "icon": "link" },
+        { "title": "Арбалетный болт", "href": "/items/crossbow-bolt", "icon": "bolt" },
+        { "title": "Новые предметы", "href": "/items/new-items", "icon": "star" },
+        { "title": "Новые ресурсы", "href": "/items/resources", "icon": "cubes" }
+      ]
+    },
+    {
+      "group": "Бой",
+      "icon": "shield-halved",
+      "pages": [
+        { "title": "Зачарования Neo Enchant", "href": "/combat/enchantments", "icon": "wand-magic-sparkles" }
+      ]
+    },
+    {
+      "group": "Фермерство и готовка",
+      "icon": "wheat-awn",
+      "pages": [
+        { "title": "Реворк готовки", "href": "/farming/cooking-rework", "icon": "utensils" },
+        { "title": "200 видов рыб", "href": "/farming/fish", "icon": "fish" },
+        { "title": "Нарковарение", "href": "/farming/drugs", "icon": "flask" },
+        { "title": "Пивоварение", "href": "/farming/brewery", "icon": "beer-mug-empty" }
+      ]
+    },
+    {
+      "group": "Механики",
+      "icon": "gears",
+      "pages": [
+        { "title": "Чертежи", "href": "/mechanics/blueprints", "icon": "scroll" },
+        { "title": "Лошади", "href": "/mechanics/horses", "icon": "horse" },
+        { "title": "Расследования", "href": "/mechanics/investigations", "icon": "magnifying-glass" },
+        { "title": "Знакомства и дружба", "href": "/mechanics/social", "icon": "users" }
+      ]
+    },
+    {
+      "group": "Команды",
+      "icon": "terminal",
+      "pages": [
+        { "title": "РП команды", "href": "/commands/rp-commands", "icon": "terminal" }
+      ]
+    }
+  ]
+}
