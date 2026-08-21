@@ -1,6 +1,7 @@
 ---
 title: Зачарования Neo Enchant
 description: Гайд по кастомным зачарованиям — ближний бой, инструменты и дальний бой.
+icon: wand-sparkles
 ---
 
 # 🔮 Зачарования Neo Enchant
