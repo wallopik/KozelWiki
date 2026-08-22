@@ -2,10 +2,6 @@
   "$schema": "https://mintlify.com/docs.json",
   "name": "KozelWiki",
   "description": "Wiki сервера Kozel — гайды по механикам, предметам и системам сервера.",
-  "logo": {
-    "light": "/images/logo.png",
-    "dark": "/images/logo.png"
-    },
   "theme": "mint",
   "colors": {
     "primary": "#5865F2",
