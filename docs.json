@@ -6,9 +6,8 @@
   "logo": {
   "light": "/images/kozelwiki-light.png",
   "dark": "/images/kozelwiki-dark.png"
- },
-
-  "favicon": "/images/logo.png",
+},
+"favicon": "/images/logo.png",
 
   "theme": "mint",
   "colors": {
