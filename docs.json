@@ -4,9 +4,9 @@
   "description": "Wiki сервера Kozel — гайды по механикам, предметам и системам сервера.",
 
   "logo": {
-    "light": "/images/logo.png",
-    "dark": "/images/logo.png"
-  },
+  "light": "/images/kozelwiki-light.png",
+  "dark": "/images/kozelwiki-dark.png"
+ },
 
   "favicon": "/images/logo.png",
 
