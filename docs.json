@@ -3,11 +3,7 @@
   "name": "KozelWiki",
   "description": "Wiki сервера Kozel — гайды по механикам, предметам и системам сервера.",
 
-  "logo": {
-  "light": "/images/kozelwiki-light.png",
-  "dark": "/images/kozelwiki-dark.png"
-},
-"favicon": "/images/logo.png",
+  "favicon": "/images/logo.png",
 
   "theme": "mint",
   "colors": {
@@ -15,6 +11,7 @@
     "light": "#7B82F8",
     "dark": "#7B82F8"
   },
+
   "icons": {
     "library": "lucide"
   },
