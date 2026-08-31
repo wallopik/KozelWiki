@@ -28,7 +28,7 @@
         "pages": ["index"]
       },
       {
-        "group": "Предметы",
+        "group": "Микро фишки",
         "icon": "box",
         "pages": [
           "items/chainsaw",
