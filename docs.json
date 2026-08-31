@@ -35,7 +35,7 @@
           "items/sieve",
           "items/invisible-frames",
           "items/rope",
-          "mechanics/rename-and-lore",
+          "items/rename-and-lore",
           "items/crossbow-bolt",
           "items/resources"
         ]
