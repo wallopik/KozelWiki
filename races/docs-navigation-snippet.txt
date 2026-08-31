@@ -1,3 +1,0 @@
-“navigation”: [ { “group”: “🍲 Еда и фермерство”, “pages”: [
-“food/index”, “food/plants”, “food/knives”, “food/cauldron”,
-“food/meals”, “food/effects”, “food/dirty-food” ] }]
