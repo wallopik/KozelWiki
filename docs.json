@@ -75,6 +75,23 @@
         "group": "Команды",
         "icon": "terminal",
         "pages": ["commands/rp-commands"]
+      {
+        "group": "Расы",
+        "icon": "users",
+        "pages": [
+        "races/index",
+        "races/human",
+        "races/forest-ghost",
+        "races/slimite",
+        "races/satyr",
+        "races/skalkling",
+        "races/skeler",
+        "races/scorched",
+        "races/scorpion",
+        "races/penguin",
+        "races/necrofrost"
+        ]
+      }
       }
     ]
   }
