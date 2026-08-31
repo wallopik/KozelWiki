@@ -49,10 +49,17 @@
         "group": "Фермерство и готовка",
         "icon": "wheat",
         "pages": [
+          "farming/index",
           "farming/cooking-rework",
+          "farming/plants",
+          "farming/meals",
+          "farming/effects",
+          "farming/cauldron",
+          "farming/knives",
           "farming/fish",
+          "farming/brewery",
           "farming/drugs",
-          "farming/brewery"
+          "farming/dirty-food"
         ]
       },
       {
@@ -61,7 +68,6 @@
         "pages": [
           "mechanics/blueprints",
           "mechanics/horses",
-          "mechanics/investigations",
           "mechanics/social",
           "mechanics/sex"
         ]
