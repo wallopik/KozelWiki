@@ -75,6 +75,7 @@
         "group": "Команды",
         "icon": "terminal",
         "pages": ["commands/rp-commands"]
+      },
       {
         "group": "Расы",
         "icon": "users",
