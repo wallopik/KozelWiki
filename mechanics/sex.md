@@ -40,7 +40,7 @@ icon: "heart"
 
 Например:
 
-`/sex Praw1chr`
+`/sex Praw1ch`
 
 Игрок должен находиться:
 
