@@ -1,7 +1,7 @@
 ---
 description: Как выращивать новые культуры FoodRework.
 icon: sprout
-title: Помидоры и рис
+title: Новые культуры
 ---
 
 # 🌱 Помидоры и рис
