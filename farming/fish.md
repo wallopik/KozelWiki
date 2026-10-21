@@ -76,45 +76,43 @@ icon: "fish"
 
 | Биом | фото |            Рыба	          |        Эффект       |
 | ---- | ---- | ------------------------- | ------------------- |
-| Теплый | <img width="32" height="32" alt="fallen_starfish" src="https://github.com/user-attachments/assets/a479ec1c-daee-4b3c-80b0-317c085c7843" /> | Фаллен Старфиш |	Вспышка молнии и 6 урона игроку |
-| Холодный | <img width="16" height="16" alt="cloudfish" src="https://github.com/user-attachments/assets/0d35d6cf-9e3a-4c31-8eb0-a31f39a13aa7" /> | Клаудфиш |	Телепорт на 500 блоков вверх; медленное падение на 15 секунд |
-| Прохладный / Холодный | <img width="16" height="16" alt="blowfish" src="https://github.com/user-attachments/assets/a4b19416-5175-486b-93e9-a7e8bee5866c" /> | Бловфиш |	Тьма и тошнота на 10 секунд |
-| Умереный | <img width="16" height="16" alt="hungerfish" src="https://github.com/user-attachments/assets/91f8fc4e-c464-4664-99dc-35fe278a6889" /> | Хунгерфиш	| Полностью обнуляет голод и насыщение |
+| Теплый | <img width="512" height="512" alt="fallen_starfish" src="https://github.com/user-attachments/assets/8d33f1b1-abed-4f7a-9d5b-d09f78e50f51" /> | Фаллен Старфиш |	Вспышка молнии и 6 урона игроку |
+| Холодный | <img width="512" height="512" alt="cloudfish" src="https://github.com/user-attachments/assets/6c6f734e-a30f-47af-a04a-a3cd181fb324" /> | Клаудфиш |	Телепорт на 500 блоков вверх; медленное падение на 15 секунд |
+| Прохладный / Холодный | <img width="512" height="512" alt="blowfish" src="https://github.com/user-attachments/assets/a1dd1509-01a9-4618-bae1-9503c49dc242" /> | Бловфиш |	Тьма и тошнота на 10 секунд |
+| Умереный | <img width="512" height="512" alt="hungerfish" src="https://github.com/user-attachments/assets/10db8434-2657-4bb2-b2e0-463797634399" /> | Хунгерфиш	| Полностью обнуляет голод и насыщение |
 | ---- | ---- | Летучая рыба |	Левитация на 5 минут |
-| ---- | ---- | Пиксифиш |	Левитация и свечение на 1 минуту |
-| Умереный | <img width="32" height="32" alt="bumblebee_tuna" src="https://github.com/user-attachments/assets/26b12a9a-90a1-4435-aa35-f63e2b2ffbbe" /> | Бумблеби | Туна	Призывает 3 пчел, которые атакуют игрока |
-| ---- | ---- | Рыба-зомби |	Призывает зомби |
-| Умереный | <img width="32" height="32" alt="chicken_jockeyfish" src="https://github.com/user-attachments/assets/3b75a69b-8b7a-4b1d-83cf-425ea9f0ea4e" /> | Чикен Джокеифиш	| Призывает маленького зомби-всадника на курице |
-| Пещерный | <img width="16" height="16" alt="batfish" src="https://github.com/user-attachments/assets/1bce4a34-abd2-4cb0-8db5-ab59e65bbd80" /> | Батфиш |	Тьма на 10 секунд и 2 летучие мыши |
-| Умереный | <img width="16" height="16" alt="bonefish" src="https://github.com/user-attachments/assets/6f3b8dc5-f957-4b63-ab13-dacd0fceb4e7" /> | Костяная рыба	| Призывает скелета |
-| Глубиная тьма | <img width="16" height="16" alt="tnt_fish" src="https://github.com/user-attachments/assets/add4f4aa-2bbc-4814-bd01-55edd955be02" /> | Тнт Фиш	| Призывает TNT с фитилём 3 секунды; блоки не ломает |
-| Ад | <img width="16" height="16" alt="black_minnow" src="https://github.com/user-attachments/assets/945f9ffa-8e94-4816-ae9b-cd7b6a90584b" /> | Блак Миннов| 	На 10 секунд меняет блоки под ногами на магму, затем восстанавливает их |
-| Глубиная тьма | <img width="32" height="32" alt="fishing_rod_fish" src="https://github.com/user-attachments/assets/4796b9aa-ab68-4281-a773-7de9c525de8e" /> | Фишинг Род Фиш |	Даёт полностью починенную удочку с «Починкой» |
-| ---- | ---- | Присмите |	На 10 секунд создаёт под ногами платформу из случайных видов призмарина, затем восстанавливает блоки |
-| Глубиная тьма | <img width="32" height="32" alt="mirage_fish" src="https://github.com/user-attachments/assets/3a59feb5-f630-4f9b-b58a-124439ae6911" /> | Мираге Фиш |	Призывает 3 фантома на 1 минуту |
-| ---- | ---- | Спидерфиш Квин |	Позволяет подниматься по стенам 30 секунд: нужно смотреть на стену и двигаться вперёд |
-| Пещерный / Горный | <img width="16" height="16" alt="armor_trimfish" src="https://github.com/user-attachments/assets/8c28c290-8713-4e39-bfb2-8cc76b9f398f" /> | Армаур Тримфиш |	Даёт случайный шаблон отделки брони |
+| Глубиная тьма | <img width="512" height="512" alt="pixiefish" src="https://github.com/user-attachments/assets/28162e86-1c6e-4853-9de3-9d9cfd80fbba" /> | Пиксифиш |	Левитация и свечение на 1 минуту |
+| Умереный | <img width="512" height="512" alt="bumblebee_tuna" src="https://github.com/user-attachments/assets/c4dd3c50-58d9-4f62-b25a-dbe334951f3e" /> | Бумблеби | Туна	Призывает 3 пчел, которые атакуют игрока |
+| Глубиная тьма | <img width="512" height="512" alt="zombie_fish" src="https://github.com/user-attachments/assets/f1e18aab-011a-40f2-892d-62119eaded6f" /> | Рыба-зомби |	Призывает зомби |
+| Умереный | <img width="512" height="512" alt="chicken_jockeyfish" src="https://github.com/user-attachments/assets/7c5dccf4-d170-4053-839b-19d6d35d63c3" /> | Чикен Джокеифиш	| Призывает маленького зомби-всадника на курице |
+| Пещерный | <img width="512" height="512" alt="batfish" src="https://github.com/user-attachments/assets/0d9161ce-64c2-4dc5-bd11-966333961fa7" /> | Батфиш |	Тьма на 10 секунд и 2 летучие мыши |
+| Умереный | <img width="512" height="512" alt="bonefish" src="https://github.com/user-attachments/assets/ac92bfca-3eee-4e87-a48b-7411f2490d66" /> | Костяная рыба	| Призывает скелета |
+| Глубиная тьма | <img width="512" height="512" alt="tnt_fish" src="https://github.com/user-attachments/assets/079eaed4-01ed-4671-9bda-68b67368c801" /> | Тнт Фиш	| Призывает TNT с фитилём 3 секунды; блоки не ломает |
+| Ад | <img width="512" height="512" alt="black_minnow" src="https://github.com/user-attachments/assets/19ef2bb6-bcc7-4dc6-af47-962019f8ca2f" /> | Блак Миннов| 	На 10 секунд меняет блоки под ногами на магму, затем восстанавливает их |
+| Глубиная тьма | <img width="512" height="512" alt="fishing_rod_fish" src="https://github.com/user-attachments/assets/72d2a188-359d-4fe9-91b2-ae0254bda528" /> | Фишинг Род Фиш |	Даёт полностью починенную удочку с «Починкой» |
+| Глубиная тьма | <img width="512" height="512" alt="prismite" src="https://github.com/user-attachments/assets/6ecd5559-f6b0-4b1a-8219-de1b92cdf4b6" /> | Присмите |	На 10 секунд создаёт под ногами платформу из случайных видов призмарина, затем восстанавливает блоки |
+| Глубиная тьма | <img width="512" height="512" alt="mirage_fish" src="https://github.com/user-attachments/assets/d3834a87-1174-448c-bac4-b77af3b079a2" /> | Мираге Фиш |	Призывает 3 фантома на 1 минуту |
+| Глубиная тьма | <img width="512" height="512" alt="spiderfish_queen" src="https://github.com/user-attachments/assets/95bbee72-8d6e-4ae4-9091-82dd07db2fd4" /> | Спидерфиш Квин |	Позволяет подниматься по стенам 30 секунд: нужно смотреть на стену и двигаться вперёд |
+| Пещерный / Горный | <img width="512" height="512" alt="armor_trimfish" src="https://github.com/user-attachments/assets/2d08066d-9a88-4767-944b-fc74a61ebd21" /> | Армаур Тримфиш |	Даёт случайный шаблон отделки брони |
 | ---- | ---- | Медоплав |	На 10 секунд меняет блоки под ногами на мёд, затем восстанавливает их |
-| Теплый | <img width="16" height="16" alt="armored_cavefish" src="https://github.com/user-attachments/assets/4e717886-50c0-46a3-95db-a97e12f902c9" /> | Арморед Кавефиш |	Сопротивление III на 20 секунд |
-| ---- | ---- | Неуловимая рыба |	Скорость X на 10 секунд |
-| Ад | <img width="32" height="32" alt="fishotron" src="https://github.com/user-attachments/assets/9a04f621-968d-477a-a7dd-3c6b0584e1d5" /> | Фишотрон |	Выбрасывает предметы из хотбара |
-| Глубиная тьма / Холодный | <img width="32" height="32" alt="fishotron_prime" src="https://github.com/user-attachments/assets/04ae145b-8811-4d52-a8f4-6bbae0ee1904" /> | Фишотрон Прайм |	20 секунд каждый сломанный игроком блок вызывает взрыв, разрушающий блоки вокруг |
-| Умереный | <img width="16" height="16" alt="fishbrine" src="https://github.com/user-attachments/assets/fe46d2e7-2b08-47ec-a445-c903aace67b5" /> | Фишбрине |	Кикает с сообщением «Тебя унёс с собой Херобрин» |
-| ---- | ---- | Саулфиш |	Один раз спасает от смертельного урона, как тотем |
+| Теплый | <img width="512" height="512" alt="armored_cavefish" src="https://github.com/user-attachments/assets/da66b8a9-7f27-4e47-87a1-375c8f0f712f" /> | Арморед Кавефиш |	Сопротивление III на 20 секунд |
+| Ад | <img width="512" height="512" alt="the_uncatchable" src="https://github.com/user-attachments/assets/739d9c1a-bf27-4859-9341-dad76d0a71f3" /> | Неуловимая рыба |	Скорость X на 10 секунд |
+| Ад | <img width="512" height="512" alt="fishotron" src="https://github.com/user-attachments/assets/5ba43ffd-f7ec-4aa2-8c0b-3f6f16b5c8e0" /> | Фишотрон |	Выбрасывает предметы из хотбара |
+| Глубиная тьма / Холодный | <img width="512" height="512" alt="fishotron_prime" src="https://github.com/user-attachments/assets/a7a12abf-768a-4a42-9a40-fa5f63539546" /> | Фишотрон Прайм |	20 секунд каждый сломанный игроком блок вызывает взрыв, разрушающий блоки вокруг |
+| Умереный | <img width="512" height="512" alt="fishbrine" src="https://github.com/user-attachments/assets/a8c77a43-7447-4611-b900-bf98d6e09eb1" /> | Фишбрине |	Кикает с сообщением «Тебя унёс с собой Херобрин» |
+| Теплый | <img width="512" height="512" alt="soulfish" src="https://github.com/user-attachments/assets/3c326b23-513d-4ca9-88fd-a201b42e9254" /> | Саулфиш |	Один раз спасает от смертельного урона, как тотем |
 | ---- | ---- | Вивернтайл |	Прыгучесть V и рывок двойным нажатием пробела на 20 секунд |
-| Глубиная тьма | <img width="16" height="16" alt="enchanted_bookfish" src="https://github.com/user-attachments/assets/aa6dcfc3-5c1b-4b74-826f-a0f2417674d7" /> | Енчантед Букфиш |	Накладывает проклятие утраты на случайный предмет в основном инвентаре |
-| Ад | <img width="16" height="16" alt="voodoo_dollfin" src="https://github.com/user-attachments/assets/c906684a-bf74-43ab-b28a-c05935c9316d" /> | Вуду-долфин |	Случайный другой игрок получает входящий урон съевшего рыбу в течение 5 секунд (не может убить игрока)|
+| Глубиная тьма | <img width="512" height="512" alt="enchanted_bookfish" src="https://github.com/user-attachments/assets/d0f3fa4c-40aa-44d0-8392-1abeb77cb2d2" /> | Енчантед Букфиш |	Накладывает проклятие утраты на случайный предмет в основном инвентаре |
+| Ад | <img width="512" height="512" alt="voodoo_dollfin" src="https://github.com/user-attachments/assets/67a9d9b6-132a-439e-8dc7-24bc64823635" /> | Вуду-долфин |	Случайный другой игрок получает входящий урон съевшего рыбу в течение 5 секунд (не может убить игрока)|
 | ---- | ---- | Пещерная рыба	| Ночное зрение на 1 минуту |
-| Глубиная тьма | <img width="16" height="16" alt="chaos_fish" src="https://github.com/user-attachments/assets/a9566cc7-a7a7-40ca-afb3-61a7dede780d" /> | Чаос Фиш	| Телепортирует в случайную безопасную точку неподалёку, внутри границы мира |
-| ---- | ---- | Таинственная рыба |	Случайно применяет эффект одной из остальных рыб в этом списке |
-| ---- | ---- | Джевелфиш |	Прыгучесть III на 10 секунд |
-| Холодный | <img width="16" height="16" alt="frost_minnow" src="https://github.com/user-attachments/assets/755a6038-5bee-4054-a618-3cb6ea0020b0" /> | Фрост Миннов |	Заморозка и замедление I на 10 секунд |
-| ---- | ---- | Лава Партикле |	Поджигает игрока на 5 секунд |
-| Глубиная тьма | <img width="16" height="16" alt="cursedfish" src="https://github.com/user-attachments/assets/fc0981f6-af89-4fb8-8405-eb672fb7bc91" /> | Курседфиш	| Отравление I, тошнота I и свечение на 30 секунд |
-| Ад | <img width="16" height="16" alt="heartfish" src="https://github.com/user-attachments/assets/c81022dd-5833-467f-bc96-7c7e74636b23" /> | Хиртфиш |	Добавляет и восстанавливает 3 здоровья на 30 секунд |
-| Теплый | <img width="16" height="16" alt="goldfish" src="https://github.com/user-attachments/assets/5d4b14d6-230c-4e20-bdde-9504c20e7ceb" /> | Золотая рыбка |	На 10 секунд меняет блоки под ногами на золото, затем восстанавливает их |
-
-> "Золотая рыбка" Для временных платформ бедрок и обсидиан не заменяются.
+| Глубиная тьма | <img width="512" height="512" alt="chaos_fish" src="https://github.com/user-attachments/assets/c9461e1d-a866-40d7-a4a4-9bab7ebcb8e5" /> | Чаос Фиш	| Телепортирует в случайную безопасную точку неподалёку, внутри границы мира |
+| Теплый | <img width="512" height="512" alt="mystery_fish" src="https://github.com/user-attachments/assets/d176740e-0821-4bcb-a0ab-39e31be9b135" /> | Таинственная рыба |	Случайно применяет эффект одной из остальных рыб в этом списке |
+| Теплый | <img width="512" height="512" alt="jewelfish" src="https://github.com/user-attachments/assets/d7c19181-3bc6-41f9-9334-504feb1dd89e" /> | Джевелфиш |	Прыгучесть III на 10 секунд |
+| Холодный | <img width="512" height="512" alt="frost_minnow" src="https://github.com/user-attachments/assets/f13290f1-9079-4d86-8671-6b56e4a23889" /> | Фрост Миннов |	Заморозка и замедление I на 10 секунд |
+| ---- | <img width="512" height="512" alt="lava_particle" src="https://github.com/user-attachments/assets/1d31ff8e-be95-4100-8e62-ec5950ddc89a" /> | Лава Партикле |	Поджигает игрока на 5 секунд |
+| Глубиная тьма | <img width="512" height="512" alt="cursedfish" src="https://github.com/user-attachments/assets/6c2858c6-5ad6-49b8-a8c6-0f45012b3e8c" /> | Курседфиш	| Отравление I, тошнота I и свечение на 30 секунд |
+| Ад | <img width="512" height="512" alt="heartfish" src="https://github.com/user-attachments/assets/adb9c1f2-f4b3-42b9-a4fd-714d3d8c0068" /> | Хиртфиш |	Добавляет и восстанавливает 3 здоровья на 30 секунд |
+| Теплый | <img width="512" height="512" alt="goldfish" src="https://github.com/user-attachments/assets/543765b3-4c66-461e-8b63-7884d91344fe" /> | Золотая рыбка |	На 10 секунд меняет блоки под ногами на золото, затем восстанавливает их (Для временных платформ бедрок и обсидиан не заменяются.) |
 
 ---
 
