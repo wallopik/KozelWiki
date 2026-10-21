@@ -1,4 +1,4 @@
-<img width="45" height="41" alt="изображение" src="https://github.com/user-attachments/assets/82801e64-fb69-457d-aae2-7eb91305a1ae" /><img width="40" height="38" alt="изображение" src="https://github.com/user-attachments/assets/cd7f1fb4-6a46-4a9c-88cf-7a440b947daa" /><img width="40" height="38" alt="изображение" src="https://github.com/user-attachments/assets/354b0c40-1775-4d99-92b9-6400a323cfb6" />---
+---
 
 title: "200 видов рыб"
 description: "200 уникальных видов рыб, распределённых по биомам, и 100 рецептов рыбных супов с полезными эффектами."
