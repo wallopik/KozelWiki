@@ -76,7 +76,7 @@ icon: "fish"
 
 | Биом | фото |            Рыба	          |        Эффект       |
 | ---- | ---- | ------------------------- | ------------------- |
-| Теплый | <img width="512" height="512" alt="fallen_starfish" src="https://github.com/user-attachments/assets/8d33f1b1-abed-4f7a-9d5b-d09f78e50f51" /> | Фаллен Старфиш |	Вспышка молнии и 6 урона игроку |
+|  Теплый | <img width="512" height="512" alt="fallen_starfish" src="https://github.com/user-attachments/assets/8d33f1b1-abed-4f7a-9d5b-d09f78e50f51" /> |  Фаллен Старфиш |  	Вспышка молнии и 6 урона игроку |
 | Холодный | <img width="512" height="512" alt="cloudfish" src="https://github.com/user-attachments/assets/6c6f734e-a30f-47af-a04a-a3cd181fb324" /> | Клаудфиш |	Телепорт на 500 блоков вверх; медленное падение на 15 секунд |
 | Прохладный / Холодный | <img width="512" height="512" alt="blowfish" src="https://github.com/user-attachments/assets/a1dd1509-01a9-4618-bae1-9503c49dc242" /> | Бловфиш |	Тьма и тошнота на 10 секунд |
 | Умереный | <img width="512" height="512" alt="hungerfish" src="https://github.com/user-attachments/assets/10db8434-2657-4bb2-b2e0-463797634399" /> | Хунгерфиш	| Полностью обнуляет голод и насыщение |
