@@ -7,7 +7,6 @@ icon: "boxes"
 
 # УДАЛИТЬ!
 
-<img width="962" height="360" alt="изображение" src="https://github.com/user-attachments/assets/a4c7fffc-ef83-4091-ba63-64e6d7a69a8c" />
 
 
 # 📦 Новые ресурсы
