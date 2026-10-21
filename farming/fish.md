@@ -104,7 +104,7 @@ icon: "fish"
 | ---- | <img width="512" height="512" alt="wyverntail" src="https://github.com/user-attachments/assets/42635348-2c83-45cc-8d11-33e45e8e5723" /> | Вивернтайл |	Прыгучесть V и рывок двойным нажатием пробела на 20 секунд |
 | Глубиная тьма | <img width="512" height="512" alt="enchanted_bookfish" src="https://github.com/user-attachments/assets/d0f3fa4c-40aa-44d0-8392-1abeb77cb2d2" /> | Енчантед Букфиш |	Накладывает проклятие утраты на случайный предмет в основном инвентаре |
 | Ад | <img width="512" height="512" alt="voodoo_dollfin" src="https://github.com/user-attachments/assets/67a9d9b6-132a-439e-8dc7-24bc64823635" /> | Вуду-долфин |	Случайный другой игрок получает входящий урон съевшего рыбу в течение 5 секунд (не может убить игрока)|
-| ---- | ---- | Пещерная рыба	| Ночное зрение на 1 минуту |
+| Глубиная тьма | <img width="512" height="512" alt="armored_cavefish" src="https://github.com/user-attachments/assets/646a6b7a-a388-4379-bbda-eb2561456f7c" /> | Пещерная рыба	| Ночное зрение на 1 минуту |
 | Глубиная тьма | <img width="512" height="512" alt="chaos_fish" src="https://github.com/user-attachments/assets/c9461e1d-a866-40d7-a4a4-9bab7ebcb8e5" /> | Чаос Фиш	| Телепортирует в случайную безопасную точку неподалёку, внутри границы мира |
 | Теплый | <img width="512" height="512" alt="mystery_fish" src="https://github.com/user-attachments/assets/d176740e-0821-4bcb-a0ab-39e31be9b135" /> | Таинственная рыба |	Случайно применяет эффект одной из остальных рыб в этом списке |
 | Теплый | <img width="512" height="512" alt="jewelfish" src="https://github.com/user-attachments/assets/d7c19181-3bc6-41f9-9334-504feb1dd89e" /> | Джевелфиш |	Прыгучесть III на 10 секунд |
