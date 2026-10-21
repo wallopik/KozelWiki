@@ -109,7 +109,6 @@ icon: "fish"
 | Теплый | <img width="512" height="512" alt="mystery_fish" src="https://github.com/user-attachments/assets/d176740e-0821-4bcb-a0ab-39e31be9b135" /> | Таинственная рыба |	Случайно применяет эффект одной из остальных рыб в этом списке |
 | Теплый | <img width="512" height="512" alt="jewelfish" src="https://github.com/user-attachments/assets/d7c19181-3bc6-41f9-9334-504feb1dd89e" /> | Джевелфиш |	Прыгучесть III на 10 секунд |
 | Холодный | <img width="512" height="512" alt="frost_minnow" src="https://github.com/user-attachments/assets/f13290f1-9079-4d86-8671-6b56e4a23889" /> | Фрост Миннов |	Заморозка и замедление I на 10 секунд |
-| Ад | <img width="512" height="512" alt="lava_particle" src="https://github.com/user-attachments/assets/1d31ff8e-be95-4100-8e62-ec5950ddc89a" /> | Лава Партикле |	Поджигает игрока на 5 секунд |
 | Глубиная тьма | <img width="512" height="512" alt="cursedfish" src="https://github.com/user-attachments/assets/6c2858c6-5ad6-49b8-a8c6-0f45012b3e8c" /> | Курседфиш	| Отравление I, тошнота I и свечение на 30 секунд |
 | Ад | <img width="512" height="512" alt="heartfish" src="https://github.com/user-attachments/assets/adb9c1f2-f4b3-42b9-a4fd-714d3d8c0068" /> | Хиртфиш |	Добавляет и восстанавливает 3 здоровья на 30 секунд |
 | Теплый | <img width="512" height="512" alt="goldfish" src="https://github.com/user-attachments/assets/543765b3-4c66-461e-8b63-7884d91344fe" /> | Золотая рыбка |	На 10 секунд меняет блоки под ногами на золото, затем восстанавливает их (Для временных платформ бедрок и обсидиан не заменяются.) |
