@@ -80,7 +80,7 @@ icon: "fish"
 | Холодный | <img width="512" height="512" alt="cloudfish" src="https://github.com/user-attachments/assets/6c6f734e-a30f-47af-a04a-a3cd181fb324" /> | Клаудфиш |	Телепорт на 500 блоков вверх; медленное падение на 15 секунд |
 | Прохладный / Холодный | <img width="512" height="512" alt="blowfish" src="https://github.com/user-attachments/assets/a1dd1509-01a9-4618-bae1-9503c49dc242" /> | Бловфиш |	Тьма и тошнота на 10 секунд |
 | Умереный | <img width="512" height="512" alt="hungerfish" src="https://github.com/user-attachments/assets/10db8434-2657-4bb2-b2e0-463797634399" /> | Хунгерфиш	| Полностью обнуляет голод и насыщение |
-| ---- | ---- | Летучая рыба |	Левитация на 5 минут |
+| ---- | <img width="512" height="512" alt="flying_fish" src="https://github.com/user-attachments/assets/0720b099-165f-40ca-a2c0-5318fdc6d0b9" /> | Летучая рыба |	Левитация на 5 минут |
 | Глубиная тьма | <img width="512" height="512" alt="pixiefish" src="https://github.com/user-attachments/assets/28162e86-1c6e-4853-9de3-9d9cfd80fbba" /> | Пиксифиш |	Левитация и свечение на 1 минуту |
 | Умереный | <img width="512" height="512" alt="bumblebee_tuna" src="https://github.com/user-attachments/assets/c4dd3c50-58d9-4f62-b25a-dbe334951f3e" /> | Бумблеби | Туна	Призывает 3 пчел, которые атакуют игрока |
 | Глубиная тьма | <img width="512" height="512" alt="zombie_fish" src="https://github.com/user-attachments/assets/f1e18aab-011a-40f2-892d-62119eaded6f" /> | Рыба-зомби |	Призывает зомби |
@@ -94,14 +94,14 @@ icon: "fish"
 | Глубиная тьма | <img width="512" height="512" alt="mirage_fish" src="https://github.com/user-attachments/assets/d3834a87-1174-448c-bac4-b77af3b079a2" /> | Мираге Фиш |	Призывает 3 фантома на 1 минуту |
 | Глубиная тьма | <img width="512" height="512" alt="spiderfish_queen" src="https://github.com/user-attachments/assets/95bbee72-8d6e-4ae4-9091-82dd07db2fd4" /> | Спидерфиш Квин |	Позволяет подниматься по стенам 30 секунд: нужно смотреть на стену и двигаться вперёд |
 | Пещерный / Горный | <img width="512" height="512" alt="armor_trimfish" src="https://github.com/user-attachments/assets/2d08066d-9a88-4767-944b-fc74a61ebd21" /> | Армаур Тримфиш |	Даёт случайный шаблон отделки брони |
-| ---- | ---- | Медоплав |	На 10 секунд меняет блоки под ногами на мёд, затем восстанавливает их |
+| ---- | <img width="512" height="512" alt="honeyfin" src="https://github.com/user-attachments/assets/cfec79c8-a18f-41d3-835b-44934d96fa8b" /> | Медоплав |	На 10 секунд меняет блоки под ногами на мёд, затем восстанавливает их |
 | Теплый | <img width="512" height="512" alt="armored_cavefish" src="https://github.com/user-attachments/assets/da66b8a9-7f27-4e47-87a1-375c8f0f712f" /> | Арморед Кавефиш |	Сопротивление III на 20 секунд |
 | Ад | <img width="512" height="512" alt="the_uncatchable" src="https://github.com/user-attachments/assets/739d9c1a-bf27-4859-9341-dad76d0a71f3" /> | Неуловимая рыба |	Скорость X на 10 секунд |
 | Ад | <img width="512" height="512" alt="fishotron" src="https://github.com/user-attachments/assets/5ba43ffd-f7ec-4aa2-8c0b-3f6f16b5c8e0" /> | Фишотрон |	Выбрасывает предметы из хотбара |
 | Глубиная тьма / Холодный | <img width="512" height="512" alt="fishotron_prime" src="https://github.com/user-attachments/assets/a7a12abf-768a-4a42-9a40-fa5f63539546" /> | Фишотрон Прайм |	20 секунд каждый сломанный игроком блок вызывает взрыв, разрушающий блоки вокруг |
 | Умереный | <img width="512" height="512" alt="fishbrine" src="https://github.com/user-attachments/assets/a8c77a43-7447-4611-b900-bf98d6e09eb1" /> | Фишбрине |	Кикает с сообщением «Тебя унёс с собой Херобрин» |
 | Теплый | <img width="512" height="512" alt="soulfish" src="https://github.com/user-attachments/assets/3c326b23-513d-4ca9-88fd-a201b42e9254" /> | Саулфиш |	Один раз спасает от смертельного урона, как тотем |
-| ---- | ---- | Вивернтайл |	Прыгучесть V и рывок двойным нажатием пробела на 20 секунд |
+| ---- | <img width="512" height="512" alt="wyverntail" src="https://github.com/user-attachments/assets/42635348-2c83-45cc-8d11-33e45e8e5723" /> | Вивернтайл |	Прыгучесть V и рывок двойным нажатием пробела на 20 секунд |
 | Глубиная тьма | <img width="512" height="512" alt="enchanted_bookfish" src="https://github.com/user-attachments/assets/d0f3fa4c-40aa-44d0-8392-1abeb77cb2d2" /> | Енчантед Букфиш |	Накладывает проклятие утраты на случайный предмет в основном инвентаре |
 | Ад | <img width="512" height="512" alt="voodoo_dollfin" src="https://github.com/user-attachments/assets/67a9d9b6-132a-439e-8dc7-24bc64823635" /> | Вуду-долфин |	Случайный другой игрок получает входящий урон съевшего рыбу в течение 5 секунд (не может убить игрока)|
 | ---- | ---- | Пещерная рыба	| Ночное зрение на 1 минуту |
