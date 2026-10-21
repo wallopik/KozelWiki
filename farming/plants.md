@@ -1,5 +1,5 @@
 ---
-description: Как выращивать новые культуры FoodRework.
+description: Как выращивать и получать новые культуры.
 icon: sprout
 title: Новые культуры
 ---
