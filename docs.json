@@ -37,7 +37,6 @@
           "items/rope",
           "items/rename-and-lore",
           "items/crossbow-bolt",
-          "items/resources",
           "items/totem"
         ]
       },
@@ -51,7 +50,6 @@
         "icon": "wheat",
         "pages": [
           "farming/index",
-          "farming/cooking-rework",
           "farming/plants",
           "farming/meals",
           "farming/effects",
